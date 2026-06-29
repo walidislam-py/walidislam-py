@@ -5,21 +5,21 @@
 
 <!-- Award Badge -->
 <p align="center">
-  <a href="https://github.com/walidislam">
+  <a href="https://github.com/walidislam-py">
     <img src="https://img.shields.io/badge/AWARD_WINNING-PROFILE-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Award Winning Profile" />
   </a>
-  <a href="https://www.kaggle.com/walidislam">
+  <a href="https://www.kaggle.com/walidislam-py">
     <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Expert" />
   </a>
-  <a href="https://www.datacamp.com/portfolio/walidislam">
+  <a href="https://www.datacamp.com/portfolio/walidislam-py">
     <img src="https://img.shields.io/badge/DataCamp-Top_1%25-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Top 1%" />
   </a>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <a href="https://github.com/walidislam">
-    <img src="https://github-profile-trophy.vercel.app/?username=walidislam&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/walidislam-py">
+    <img src="https://github-profile-trophy.vercel.app/?username=walidislam-py&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Data Analyst with a deep passion for turning raw data into actionable insights. 
 - 🌱 I’m deepening my skills in **machine learning interpretability** and **cloud data pipelines**.
 - 👯 I’m open to collaborate on open‑source data viz projects or competitions.
 - 💬 Ask me about **A/B testing, dashboard design, or storytelling with data**.
-- 📫 Reach me at **[walidislam@email.com](mailto:walidislam@email.com)** or [LinkedIn](https://linkedin.com/in/walidislam).
+- 📫 Reach me at **[walidislam-py@email.com](mailto:walidislam-py@email.com)** or [LinkedIn](https://linkedin.com/in/walidislam-py).
 
 ---
 
@@ -87,12 +87,12 @@ Data Analyst with a deep passion for turning raw data into actionable insights. 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=walidislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=walidislam&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=walidislam-py&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=walidislam-py&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidislam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidislam-py&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -112,14 +112,14 @@ Data Analyst with a deep passion for turning raw data into actionable insights. 
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/walidislam/churn-predictor">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=walidislam&repo=churn-predictor&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/walidislam-py/churn-predictor">
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=walidislam-py&repo=churn-predictor&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/walidislam/covid-viz-dashboard">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=walidislam&repo=covid-viz-dashboard&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/walidislam-py/covid-viz-dashboard">
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=walidislam-py&repo=covid-viz-dashboard&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/walidislam/sql-market-analysis">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=walidislam&repo=sql-market-analysis&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/walidislam-py/sql-market-analysis">
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=walidislam-py&repo=sql-market-analysis&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -128,28 +128,28 @@ Data Analyst with a deep passion for turning raw data into actionable insights. 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/walidislam">
+  <a href="https://linkedin.com/in/walidislam-py">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@walidislam">
+  <a href="https://youtube.com/@walidislam-py">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://facebook.com/walidislam">
+  <a href="https://facebook.com/walidislam-py">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/walidislam">
+  <a href="https://instagram.com/walidislam-py">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/walidislam">
+  <a href="https://kaggle.com/walidislam-py">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://public.tableau.com/app/profile/walidislam">
+  <a href="https://public.tableau.com/app/profile/walidislam-py">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
-  <a href="mailto:walidislam@email.com">
+  <a href="mailto:walidislam-py@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://walidislam.dev">
+  <a href="https://walidislam-py.dev">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
